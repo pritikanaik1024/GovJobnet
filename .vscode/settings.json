@@ -1,0 +1,15 @@
+{
+    "cSpell.words": [
+        "firestore",
+        "govjobnet",
+        "Jobnet"
+    ],
+    "cSpell.customDictionaries": {
+        "custom-dictionary-workspace": {
+            "name": "custom-dictionary-workspace",
+            "path": "${workspaceFolder:GovJobnet}/.cspell/custom-dictionary-workspace.txt",
+            "addWords": true,
+            "scope": "workspace"
+        }
+    }
+}
